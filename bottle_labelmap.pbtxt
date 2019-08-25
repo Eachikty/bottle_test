@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'plastic bottle'
+}
+
+item {
+  id: 2
+  name: 'glass bottle'
+}
+
+item {
+  id: 3
+  name: 'metal bottle'
+}
+
